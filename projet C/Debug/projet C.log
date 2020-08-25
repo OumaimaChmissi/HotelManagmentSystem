@@ -1,0 +1,61 @@
+﻿La génération a démarré 13/12/2017 21:15:39.
+     1>Projet "C:\Users\oumaima\documents\visual studio 2012\Projects\projet C\projet C\projet C.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt fcts.cpp
+         fcts.cpp
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(90): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(95): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(109): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(114): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(120): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(126): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(64): warning C4101: 'chamb' : variable locale non référencée
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(147): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(199): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(209): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(211): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(217): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(224): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(229): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(243): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+     1>c:\users\oumaima\documents\visual studio 2012\projects\projet c\projet c\fcts.cpp(255): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : voir la déclaration de 'scanf'
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\oumaima\documents\visual studio 2012\Projects\projet C\Debug\projet C.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\oumaima\documents\visual studio 2012\Projects\projet C\Debug\projet C.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\oumaima\documents\visual studio 2012\Projects\projet C\Debug\projet C.lib" /MACHINE:X86 Debug\fcts.obj
+         "Debug\Main prog.obj"
+         projet C.vcxproj -> C:\Users\oumaima\documents\visual studio 2012\Projects\projet C\Debug\projet C.exe
+     1>Génération du projet "C:\Users\oumaima\documents\visual studio 2012\Projects\projet C\projet C\projet C.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.57
